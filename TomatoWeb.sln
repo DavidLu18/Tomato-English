@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomatoWeb", "TomatoWeb\TomatoWeb.csproj", "{093E3F9F-06AE-4912-BFD1-EF82638A70AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{093E3F9F-06AE-4912-BFD1-EF82638A70AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093E3F9F-06AE-4912-BFD1-EF82638A70AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093E3F9F-06AE-4912-BFD1-EF82638A70AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093E3F9F-06AE-4912-BFD1-EF82638A70AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA3A143-55C7-4887-83BB-8A292C8FBCFC}
+	EndGlobalSection
+EndGlobal
